@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/libs/ActiveAndroid/ActiveAndroid.iml" filepath="$PROJECT_DIR$/libs/ActiveAndroid/ActiveAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Akimovtest2.iml" filepath="$PROJECT_DIR$/Akimovtest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/libs.iml" filepath="$PROJECT_DIR$/libs/libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vksdk_library/vksdk_library.iml" filepath="$PROJECT_DIR$/vksdk_library/vksdk_library.iml" />
+    </modules>
+  </component>
+</project>
+

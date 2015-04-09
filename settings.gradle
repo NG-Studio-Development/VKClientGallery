@@ -1,0 +1,1 @@
+include ':app:libs:ActiveAndroid',':vksdk_library',':app'
